@@ -1,0 +1,30 @@
+{
+  "name": "AI Agent Risk Register Template",
+  "description": "Public discovery mirror for an AI-agent risk register template and the Agent Ops Command Center paid template pack.",
+  "main_product": "Agent Ops Command Center",
+  "individual_price_usd": 29,
+  "team_license_price_usd": 203,
+  "target_revenue_usd": 200,
+  "risk_register_template": "https://ivelly42.github.io/ai-agent-risk-register-template/RISK_REGISTER_TEMPLATE.md",
+  "buyer_search_terms": [
+    "AI agent risk register",
+    "Codex risk register",
+    "Claude Code risk register",
+    "Cursor team risk register",
+    "AI coding-agent risk register",
+    "agent workflow risk register template",
+    "AI agent risk matrix",
+    "AI agent mitigation tracker",
+    "AI agent access risk register"
+  ],
+  "mirror_pages": "https://ivelly42.github.io/ai-agent-risk-register-template/",
+  "template_pack_request_page": "https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html",
+  "template_pack_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml",
+  "discovery_hub": "https://ivelly42.github.io/agent-ops-command-center/discovery.html",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
+  "demand_metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "main_repository": "https://github.com/ivelly42/agent-ops-command-center",
+  "paid_zip_public": false,
+  "revenue_rule": "Revenue is proven only by checkout, receipt, payout, or seller-dashboard evidence."
+}

@@ -8,7 +8,9 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 
 - Risk register landing page: https://ivelly42.github.io/ai-agent-risk-register-template/
 - Free risk register template: https://ivelly42.github.io/ai-agent-risk-register-template/RISK_REGISTER_TEMPLATE.md
-- Fast template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+- Template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 - Fast template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 - Discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
@@ -34,7 +36,15 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 - Team license: seven seats for `$203`
 - One confirmed team payment reaches the `$200` gross target only after payment proof exists
 
-Open the fast template-pack request page:
+Open the primary $203 team request URL:
+
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Check live checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+
+Open the template-pack request page:
 
 https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 

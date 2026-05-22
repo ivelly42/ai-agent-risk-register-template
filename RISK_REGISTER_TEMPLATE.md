@@ -8,6 +8,8 @@ Use this public preview to track AI-agent team risks before buying the full Agen
 | --- | --- |
 | Risk register name |  |
 | Agent / tool | Codex / Claude Code / Cursor / local agent |
+| Primary team request URL | https://ivelly42.github.io/agent-ops-command-center/team-request-url.html |
+| Checkout status | https://ivelly42.github.io/agent-ops-command-center/checkout-status.json |
 | Business owner |  |
 | Technical owner |  |
 | Team / repo / workflow |  |
@@ -109,6 +111,14 @@ Use this public preview to track AI-agent team risks before buying the full Agen
 ## Request The Full Pack
 
 Fast template-pack request page:
+
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+
+Supporting template-pack request page:
 
 https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 
